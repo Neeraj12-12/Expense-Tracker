@@ -10,9 +10,8 @@
   the Expense Tracker app is to make a easy your life, by making a khatta book(money related transaction details) like we do in ancient times but in this hi-tech world we present you with a application with lots of feature like time, attachment, extraInfo, totally client side app, group splitter and many more. 
 </h4>
 
-
-![localhost_8080_(iPhone 12 Pro) (4)](https://github.com/123-hub/Expense-Tracker/assets/55103003/440da96e-25de-4ed3-aa03-f41ef40eb582)
-![localhost_8080_(iPhone 12 Pro)](https://github.com/123-hub/Expense-Tracker/assets/55103003/452a2700-cce3-4d9e-8dd7-9a414d047557)
-![localhost_8080_(iPhone 12 Pro) (1)](https://github.com/123-hub/Expense-Tracker/assets/55103003/8b902d63-f86d-4831-a057-f9e3845701e7)
-![localhost_8080_(iPhone 12 Pro) (2)](https://github.com/123-hub/Expense-Tracker/assets/55103003/9c66d56a-4f75-41eb-987c-a1a67208edc0)
-![localhost_8080_(iPhone 12 Pro) (3)](https://github.com/123-hub/Expense-Tracker/assets/55103003/f763fc8b-c9a8-40be-bdbc-f6fd12c4bb4a)
+<img src="https://github.com/123-hub/Expense-Tracker/assets/55103003/440da96e-25de-4ed3-aa03-f41ef40eb582" height=600px/>
+<img src="[https://github.com/123-hub/Expense-Tracker/assets/55103003/440da96e-25de-4ed3-aa03-f41ef40eb582](https://github.com/123-hub/Expense-Tracker/assets/55103003/452a2700-cce3-4d9e-8dd7-9a414d047557)" height=600px/>
+<img src="[https://github.com/123-hub/Expense-Tracker/assets/55103003/440da96e-25de-4ed3-aa03-f41ef40eb582](https://github.com/123-hub/Expense-Tracker/assets/55103003/8b902d63-f86d-4831-a057-f9e3845701e7)" height=600px/>
+<img src="[https://github.com/123-hub/Expense-Tracker/assets/55103003/440da96e-25de-4ed3-aa03-f41ef40eb582](https://github.com/123-hub/Expense-Tracker/assets/55103003/9c66d56a-4f75-41eb-987c-a1a67208edc0)" height=600px/>
+<img src="[https://github.com/123-hub/Expense-Tracker/assets/55103003/440da96e-25de-4ed3-aa03-f41ef40eb582](https://github.com/123-hub/Expense-Tracker/assets/55103003/f763fc8b-c9a8-40be-bdbc-f6fd12c4bb4a)" height=600px/>
