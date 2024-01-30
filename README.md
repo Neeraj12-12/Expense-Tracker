@@ -1,70 +1,18 @@
-# Getting Started with Create React App
+<h1>EXPENSE TRACKER</h1>
+<h4>Hey, actually i will explain you briefly about why this <bold>PWA(progressive web app)</bold> app. Let's see what is PWA app, so as we developer we all know our strengths and weakness. And in IT world there is one weakness that, if you want to build website and app for particular then you have to hire multiple developers for ANDROID for IOS AND FOR WEBSITE  </h4>.
+</br>
+<h4>
+  But with the help of PWA technology we can achieve all this with one code. And it reduces lots of time for creating and also very less efforts for maintaining one code base instead of 
+  maintaining dofferent for each domain. With the help of service worker you can achieve app like behaviour for this PWA app.
+</h4>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h4>
+  the Expense Tracker app is to make a easy your life, by making a khatta book(money related transaction details) like we do in ancient times but in this hi-tech world we present you with a application with lots of feature like time, attachment, extraInfo, totally client side app, group splitter and many more. 
+</h4>
 
-## Available Scripts
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![localhost_8080_(iPhone 12 Pro) (4)](https://github.com/123-hub/Expense-Tracker/assets/55103003/440da96e-25de-4ed3-aa03-f41ef40eb582)
+![localhost_8080_(iPhone 12 Pro)](https://github.com/123-hub/Expense-Tracker/assets/55103003/452a2700-cce3-4d9e-8dd7-9a414d047557)
+![localhost_8080_(iPhone 12 Pro) (1)](https://github.com/123-hub/Expense-Tracker/assets/55103003/8b902d63-f86d-4831-a057-f9e3845701e7)
+![localhost_8080_(iPhone 12 Pro) (2)](https://github.com/123-hub/Expense-Tracker/assets/55103003/9c66d56a-4f75-41eb-987c-a1a67208edc0)
+![localhost_8080_(iPhone 12 Pro) (3)](https://github.com/123-hub/Expense-Tracker/assets/55103003/f763fc8b-c9a8-40be-bdbc-f6fd12c4bb4a)
