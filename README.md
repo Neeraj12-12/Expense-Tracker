@@ -11,7 +11,7 @@
 </h4>
 
 <img src="https://github.com/123-hub/Expense-Tracker/assets/55103003/440da96e-25de-4ed3-aa03-f41ef40eb582" height=600px/>
-<img src="[https://github.com/123-hub/Expense-Tracker/assets/55103003/440da96e-25de-4ed3-aa03-f41ef40eb582](https://github.com/123-hub/Expense-Tracker/assets/55103003/452a2700-cce3-4d9e-8dd7-9a414d047557)" height=600px/>
-<img src="[https://github.com/123-hub/Expense-Tracker/assets/55103003/440da96e-25de-4ed3-aa03-f41ef40eb582](https://github.com/123-hub/Expense-Tracker/assets/55103003/8b902d63-f86d-4831-a057-f9e3845701e7)" height=600px/>
-<img src="[https://github.com/123-hub/Expense-Tracker/assets/55103003/440da96e-25de-4ed3-aa03-f41ef40eb582](https://github.com/123-hub/Expense-Tracker/assets/55103003/9c66d56a-4f75-41eb-987c-a1a67208edc0)" height=600px/>
-<img src="[https://github.com/123-hub/Expense-Tracker/assets/55103003/440da96e-25de-4ed3-aa03-f41ef40eb582](https://github.com/123-hub/Expense-Tracker/assets/55103003/f763fc8b-c9a8-40be-bdbc-f6fd12c4bb4a)" height=600px/>
+<img src="https://github.com/123-hub/Expense-Tracker/assets/55103003/452a2700-cce3-4d9e-8dd7-9a414d047557" height=600px/>
+<img src="https://github.com/123-hub/Expense-Tracker/assets/55103003/8b902d63-f86d-4831-a057-f9e3845701e7" height=600px/>
+<img src="https://github.com/123-hub/Expense-Tracker/assets/55103003/9c66d56a-4f75-41eb-987c-a1a67208edc0" height=600px/>
+<img src="https://github.com/123-hub/Expense-Tracker/assets/55103003/f763fc8b-c9a8-40be-bdbc-f6fd12c4bb4a" height=600px/>
