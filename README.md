@@ -1,5 +1,5 @@
 
-# EXPENSE TRACKER Application
+# Expense Tracker Application
 
 Hey, actually i will explain you briefly about why this PWA(progressive web app) app. Let's see what is PWA app, so as we developer we all know our strengths and weakness. And in IT world there is one weakness that, if you want to build website and app for particular then you have to hire multiple developers for ANDROID for IOS AND FOR WEBSITE.
 
