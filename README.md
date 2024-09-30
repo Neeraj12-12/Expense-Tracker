@@ -35,14 +35,6 @@ Go to the project directory
 ```bash
   cd watoapptest
 ```
-
-Start the server
-
-```bash
-  npx expo start
-```
-
-
 ## Screenshots
 
 <img src="https://github.com/123-hub/Expense-Tracker/assets/55103003/440da96e-25de-4ed3-aa03-f41ef40eb582" height=400px width=200px/>
